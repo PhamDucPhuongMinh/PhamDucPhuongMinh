@@ -2,7 +2,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on <span style="color:blue;">FrontEnd Developer</span>
+- 🔭 I’m currently working on <span style='color: red;'>FrontEnd Developer</span>
 - 🌱 I’m currently learning <span style="color:blue;">NodeJS</span>
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
